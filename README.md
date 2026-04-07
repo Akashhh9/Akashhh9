@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashhh9&label=Profile%20views&color=0e75b6&style=flat" alt="akashhh9" /> </p>
 
-- 🌱 I’m currently learning **ASP .Net Core with Microsoft Azure** alongside **AWS Cloud** 
+- 🌱 I’m currently learning **ASP .Net Core with Microsoft Azure** alongside **AWS Cloud**
+ 
+-Publications
+**Thermal Image Classification Under Adverse Conditions Using Ensemble Learning**  
+First Author | Springer Nature | ICSC 2025  
+
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--981--95--6063--9_18-blue?style=for-the-badge)](https://doi.org/10.1007/978-981-95-6063-9_18)
 
 - 📫 How to reach me **Akash9112002@gmail.com**
 
